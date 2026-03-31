@@ -1,6 +1,8 @@
 \version "2.24.4"
 \pointAndClickOff
 
+% Author: 沈欣瑶, 郭锦程
+
 \paper {
     paper-width = 21.0\cm
     paper-height = 29.71\cm
